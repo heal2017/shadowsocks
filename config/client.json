@@ -1,0 +1,10 @@
+{
+    "server": "113.125.158.16",
+    "server_port": 10086,
+    "local_address": "127.0.0.1",
+    "local_port": 10086,
+    "password": "123456",
+    "method": "chacha20-ietf-poly1305",
+    "timeout": 300,
+    "mode": "tcp_and_udp"
+}
