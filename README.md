@@ -21,7 +21,7 @@ make && make install
 
 # Startup ss-server
 
-configure file [/etc/shadowsocks/server.json](https://github.com/heal2017/shadowsocks/config/server.json)
+configure file [/etc/shadowsocks/server.json](https://github.com/heal2017/shadowsocks/blob/main/config/server.json)
 
 start ss-server
 ```shell
