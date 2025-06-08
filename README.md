@@ -2,7 +2,7 @@
 copy from [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
 
 # Downloads
-- [shadowsocks](https://github.com/heal2017/shadowsocks/releases/download/latest/shadowsocks.zip)
+- [shadowsocks](https://github.com/heal2017/shadowsocks/releases/download/latest/shadowsocks-libev-3.3.5.tar.gz)
 
 # Install
 
